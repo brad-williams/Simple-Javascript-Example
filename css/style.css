@@ -1,0 +1,28 @@
+body {
+	font-family: calibri;
+	font-size: 30px;
+}
+.red {
+	background-color: red;
+}
+.green {
+	background-color: green;
+}
+.invisible {
+	display: none;
+}
+.visible {
+	display: block;
+	background-color: yellow;
+}
+#box3 {
+	background-color: blue;
+}
+#box4 {
+	background-color: purple;
+}
+.box {
+	height: 70px;
+	width: 70px;
+	text-align: center;
+}
